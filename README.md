@@ -11,4 +11,4 @@ Inserted by Klimenit now
 show in the diff
 
 
-Something new
+Something new to compare
