@@ -12,3 +12,5 @@ show in the diff
 
 
 Something new to compare with
+
+Adding something
